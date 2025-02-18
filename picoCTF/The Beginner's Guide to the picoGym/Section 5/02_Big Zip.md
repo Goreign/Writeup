@@ -9,4 +9,4 @@ $ enter folder
 $ grep -r 'picoCTF' .
 ```
 
-`-r` for recursive
+`-r` stands for recursive search
