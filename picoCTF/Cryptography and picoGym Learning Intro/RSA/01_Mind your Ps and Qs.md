@@ -1,0 +1,10 @@
+# Description
+In RSA, a small e value can be problematic, but what about N? Can you decrypt this? 
+
+c: 62324783949134119159408816513334912534343517300880137691662780895409992760262021
+n: 1280678415822214057864524798453297819181910621573945477544758171055968245116423923
+e: 65537
+
+# Solution
+factorize n: https://factordb.com/
+rsa-cipher: https://www.dcode.fr/rsa-cipher
